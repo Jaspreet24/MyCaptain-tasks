@@ -1,0 +1,35 @@
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+blockquote p{
+margin-left: 10%;
+}
+.container{
+    margin-top: 8%;
+    background-color:lightseagreen;
+    color: white;
+}
+.carousel-slide{
+   max-width: 30%;
+    max-height: 30%;
+   margin: 5% 35% 0% 35%;
+}
+.row{
+    margin: 0 5%;
+}
+h2{
+ text-align: center;   
+ margin-top: 2%;}
+
+dl dt p img{
+    max-height: 30%;
+} 
+
+.image-fluid{
+    height: auto;
+    max-width: 100%;
+}
+div img{
+    text-align: center;
+    width: 30%;
+}
